@@ -57,7 +57,7 @@ body {
 /*header section*/
 .hero_area {
   height: 100vh;
-  background-image: url(../images/hero-bg.jpg);
+  background-image: url(../images/hero.jpg);
 }
 
 .sub_page .hero_area {
@@ -263,6 +263,7 @@ a:focus {
 
 .slider_section .detail-box h1 {
   color: #2c2c2c;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .slider_section .detail-box h1 span {
@@ -273,6 +274,8 @@ a:focus {
 
 .slider_section .detail-box p {
   color: #ffffff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: oblique;
 }
 
 .slider_section .detail-box a {
